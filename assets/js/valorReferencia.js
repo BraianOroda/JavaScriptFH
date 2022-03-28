@@ -37,4 +37,6 @@ console.timeEnd('slice');
 
 otrasFrutas.push('Mango');
 otrasFrutas2.push('Mango');
+
 console.table({ frutas, otrasFrutas });
+console.table({ frutas, otrasFrutas2 });
